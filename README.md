@@ -1,4 +1,4 @@
-Hi.
+### Hi.
 
 I am a student who enjoys programming in their free time. I specialize in Rust, Java, and Python, and I have a passion for working on web and networking projects. I also have experience creating mods for games like Minecraft.
 
