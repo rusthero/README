@@ -4,4 +4,4 @@ I am a student who enjoys programming in their free time. I like programming in 
 
 > Feel free to join my Discord or send an email.
 
-![Discord Banner 2](https://discordapp.com/api/guilds/1051165269709557813/widget.png?style=banner2)
+[![Discord Banner 2](https://discordapp.com/api/guilds/1051165269709557813/widget.png?style=banner2)](https://discord.gg/x6NG5qDRMZ)
