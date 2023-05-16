@@ -1,3 +1,3 @@
 ## Hi.
 
-I am a student who enjoys playing video games, making art and programming in their free time. My favourite programming language is Rust. I enjoy creating mods and tools for games I play.
+I am a student who enjoys playing video games, creating art, and programming in my free time. My favorite programming language is Rust, and I particularly enjoy developing mods and tools for video games that I play.
